@@ -62,7 +62,7 @@ Using Typora for free.
 
 这是作者原仓库的地址， 现在已经被封掉了。（吐槽一句， 自从微软收购  `github` 之后， `github` 也没有那么的 `开源` 了， 很多仓库会受到管制）
 
-当然， 还是有部分人备份了下来的， 目前我备份到了[我的仓库](https://github.com/chenxygh/freeTypora)
+当然， 还是有部分人备份了下来的， 目前我备份到了[我的仓库](https://github.com/chenkxin/freeTypora)
 
 具体解密原理可以阅读 `sunfishi` 的[博客](https://bbs.pediy.com/thread-270534.htm)。
 
@@ -82,9 +82,9 @@ Using Typora for free.
 
 #### 3.1. 下载 typora crack 代码
 
-`git clone git@github.com:chenxygh/freeTypora.git`
+`git clone git@github.com:chenkxin/freeTypora.git`
 
-（或者， 直接网页上[下载 zip 包](https://github.com/chenxygh/freeTypora)）
+（或者， 直接网页上[下载 zip 包](https://github.com/chenkxin/freeTypora)）
 
 `typoraCrack`  是用来加密解密`typora` 相关文件的工具。
 
